@@ -53,7 +53,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Professor-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammedshamil03/Mickey03)
 
 ## Commands
 ```
